@@ -151,7 +151,7 @@ public class MainActivity extends AppCompatActivity {
 
                // Toast.makeText(MainActivity.this,"Wrong Credentials",Toast.LENGTH_LONG);
                //loginstatus.setText("LOGIN FAILURE");
-                Toast.makeText(MainActivity.this,"Wrong Credentials",Toast.LENGTH_LONG);
+                //Toast.makeText(MainActivity.this,"Wrong Credentials",Toast.LENGTH_LONG);
 
 
 
